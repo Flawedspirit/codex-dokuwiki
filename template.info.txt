@@ -1,0 +1,5 @@
+base     codex
+author   Marc Chiarelli
+email    me@flawedspirit.com
+date     2018-03-12
+name     Codex Template
